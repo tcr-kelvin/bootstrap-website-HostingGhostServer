@@ -1,0 +1,14 @@
+
+.block{
+    width: 1525px;
+    height: 360px;
+}
+
+.card{
+    align-content: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
